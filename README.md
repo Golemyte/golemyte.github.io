@@ -110,6 +110,6 @@
     - WAN: Pas IPV4TCP source: any, dest: this FW HTTPS<br>
     - LAN: Tout trafic venant de WAN vers LAN et inversément du serveur web [IPV4TCP Centos vers PFsense WAN, port HTTP].
   </p>
-  </img src"wanPFSENSE1rule.png" alt="rulespfs1wan"
+  </img src"wanPFSENSE1rule.png" alt="rulespfs1wan">
 </body>
 </html>
